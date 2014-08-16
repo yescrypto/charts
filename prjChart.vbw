@@ -1,0 +1,9 @@
+frmSpeedTest = 149, 129, 1239, 950, C, 0, 0, 0, 0, C
+modCryptocurrenciez = 360, 184, 1441, 948, 
+frmChart = 97, 92, 1410, 1006, , 0, 0, 0, 0, C
+ctrlCandle = 4018, 12, 5040, 964, , 118, 98, 295, 332, C
+ctrlChart = 3807, 23, 5040, 962, , 109, 91, 558, 447, C
+frmFloater = 3895, 118, 5040, 964, , 0, 0, 0, 0, C
+modGzip = 149, 129, 604, 950, C
+ctrlVolume = 0, 0, 0, 0, C, 118, 94, 573, 919, C
+ctrlFloaterLabel = 0, 0, 0, 0, C, 118, 94, 573, 919, C
